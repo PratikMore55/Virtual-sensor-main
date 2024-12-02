@@ -49,7 +49,6 @@ This project demonstrates a system where an **ESP32 microcontroller** collects t
 ### Python Libraries (For Flask Server)
 Ensure you have Python installed. Install the required libraries by running the following commands:
 
-    ```bash
     
     pip install Flask pandas joblib
 
